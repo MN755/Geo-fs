@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Geo-fs
-- 👀 I’m interested in GeoFS flight sim
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on A CHROME extension for GeoFS
-- 📫 How to reach me [redacted contact email]
+- I'm Working On 11Writer Project Currently -> Its Basicly Trying To Be Palantir Maven But With OSINT Data.
+- Also Built NeroAI, A Security-Oriented Platform Like OpenClaw And Uses An Electron App. Sorry Unix people.
+- Check Both Out Or Contact Me By Creating An Issue On One Of My Repos (Not The Cloudfare Worker, You Will Be Ignored Until The End Of Time).
 
-<!---
-Geo-fs/Geo-fs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Thanks For Stoping By! 
